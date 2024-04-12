@@ -1,0 +1,29 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+	
+	color: rgb(0, 0, 0);
+}
+
+/* Styling Flexbox */
+#flexbox-demo-bg {
+	background-color: rgb(230, 181, 230);
+	color: white;
+}
+
+.flex-container {
+	display: flex;
+	flex-wrap: nowrap;
+	
+}
+
+.flex-item {
+	
+	width: 100px;
+	margin: 10px;
+	text-align: center;
+	line-height: 75px;
+	font-size: 30px;
+}
